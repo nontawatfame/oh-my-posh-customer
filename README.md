@@ -9,3 +9,4 @@ command => ps: Install-Module -Name Terminal-Icons -Repository PSGallery
 
 เพิ่มคำสั่งนี้
 ![image](https://user-images.githubusercontent.com/44764791/134385101-20d1ea3d-f6f3-404d-a0ca-35a90dc60721.png)
+![image](https://user-images.githubusercontent.com/44764791/134385269-82762bc0-918a-40bf-9b43-5e104d2b5da7.png)
